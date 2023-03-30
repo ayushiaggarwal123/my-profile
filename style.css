@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+    font-size: 1.1rem;
+    position: relative;
+    color: #40514E;
+}
+h1{
+    margin-top: 0px;
+   color: #90b77d;
+   font-family: 'Charmonman', cursive;
+   font-size: 5rem;
+   
+}
+.hello{
+    color: #90b77d;
+    font-size: 3rem;
+}
+h2{
+    font-family: 'Charmonman', cursive;
+   color: #90B77D;
+   line-height: 2;
+   font-size: 2rem;
+}
+.skill{
+    color: #90b77d;
+}
+.position{
+    position: relative;
+    bottom: 20px;
+
+}
+h3{
+    font-family: 'Charmonman', cursive;
+    font-weight: 10px;
+}
+    
+div{
+    background-color: white;
+    position: relative;
+}
+
+.topcontainer{
+    background-color: #DDFFBC;
+    padding-top: 100px;
+}
+.bottom-container{
+    padding: 50px;
+    background-color: #AACB73;
+    height: 150px;
+}
+.footer-link{
+    display: inline;
+    position: relative;
+    padding: 50px;
+}
+
+
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 20px;
+    
+}
+.cloud2{
+    position: absolute;
+    bottom: 300px;
+    left: 200px;
+}
+a{
+    color: #7AA874;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.image{
+    position: relative;
+    margin-top: 50px;
+    
+}
+hr{ 
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: #AACB73;
+    width: 5%;
+    position: relative;
+    margin: 100px auto 100px auto;
+}
+.skill-row{
+    width: 50%;
+     text-align: left;
+     margin: 100px auto 100px auto;
+}
+.something{
+    float: left;
+    margin-right: 30px;
+    width: 200px;
+}
+.star{
+    width: 200px;
+    float: right;
+}
+.btn{
+    background-color: #AACB73;;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+ /* text-align: center;*/
+ /* text-decoration: none;*/
+  display: inline-block;
+  font-size: 20px;
+  margin: 100px auto 100px auto;
+ border-radius: 15px;
+}
+.btn:hover{
+    background-color: #7AA874;
+}
+   
+.bottom{
+    position: relative;
+    margin: 100px auto 100px 40px;
+    color: white;
+ 
+}
